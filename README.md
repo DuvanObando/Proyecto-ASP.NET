@@ -15,4 +15,4 @@ dotnet ef database update
 dotnet run
 ```
 
-Accede a `https://localhost:7247/Products` para gestionar productos (requiere autenticación con Identity).
+Accede a `https://localhost:5167/Products` para gestionar productos (requiere autenticación con Identity).
